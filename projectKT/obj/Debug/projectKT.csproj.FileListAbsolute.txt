@@ -1,0 +1,11 @@
+C:\Users\Admin\projectKT\projectKT\bin\Debug\projectKT.exe.config
+C:\Users\Admin\projectKT\projectKT\bin\Debug\projectKT.exe
+C:\Users\Admin\projectKT\projectKT\bin\Debug\projectKT.pdb
+C:\Users\Admin\projectKT\projectKT\obj\Debug\projectKT.csproj.AssemblyReference.cache
+C:\Users\Admin\projectKT\projectKT\obj\Debug\projectKT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\projectKT\projectKT\obj\Debug\projectKT.Form1.resources
+C:\Users\Admin\projectKT\projectKT\obj\Debug\projectKT.Properties.Resources.resources
+C:\Users\Admin\projectKT\projectKT\obj\Debug\projectKT.csproj.GenerateResource.cache
+C:\Users\Admin\projectKT\projectKT\obj\Debug\projectKT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\projectKT\projectKT\obj\Debug\projectKT.exe
+C:\Users\Admin\projectKT\projectKT\obj\Debug\projectKT.pdb

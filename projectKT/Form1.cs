@@ -21,5 +21,19 @@ namespace projectKT
         {
 
         }
+
+        private void btnLogin_Click(object sender, EventArgs e)
+        {
+            String user = textUserName.Text.ToString();
+            String pws = txtPassWord.Text.ToString();
+            if(user == "admin" && pws == "admin")
+            {
+                MessageBox.Show("Dang nhap thanh cong");
+            }
+            else
+            {
+                MessageBox.Show("Dang nhap that bai");
+            }
+        }
     }
 }
